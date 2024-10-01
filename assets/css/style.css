@@ -1,0 +1,115 @@
+body {
+  font-family: "Raleway", "Open Sans";
+  color:white;
+  background-color: #000000;
+ 
+ }
+ 
+ .navbar {
+  background-color: transparent !important;
+  color: #ffffff;
+}
+
+.bg-transparent {
+  background-color: #16a2b7;
+  transition: all 2s ease;
+ }
+
+
+.container_header{
+  margin-left: 0;
+  margin-right: 0;
+} 
+
+.carousel-item {
+  background: no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+
+.hr_color {
+  background-color: #4b686d;
+  height: 0.2px;
+  opacity: 0.3;
+}
+
+.card_ {
+  background-color: #000000;
+}
+
+.card-body1 {
+  background-color: #16a2b7;  
+  padding:0;
+}
+
+.fa-iconos {
+  font-size: 2em;
+  color: #fff;
+}
+
+
+.card-body2 {
+  background-color: #000000;
+  color: #ffffff;
+  padding: 0;
+  margin: 0;
+  text-align: left;
+}
+
+.card-body00 { 
+  background-color: #ffffff;  
+  margin-top: 1.5em;
+}
+
+.card-body3 {
+  background-color: #16a2b7;  
+  color: white;
+  text-align: left;
+  padding: 0.5em;
+}
+
+.card-imagen {
+  height: 140px;
+}
+
+
+.color_footer {
+  background-color: #16a2b7;
+}
+
+footer {
+  color: #ffffff;
+  font-weight: bold;
+  background-color: #16a2b7;
+  font-family: "Raleway";
+  font-size: 400;
+  position: absolute;
+  width: 100%;
+  padding: 2px;
+}
+
+.btn {
+  color: #16a2b7;  
+  background-color: #ffffff;
+}
+
+.btn-info {
+  background-color: #16a2b7;
+  color: #ffffff;
+  margin: auto;  
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+
+a[href^="#"] {
+  transition: scroll 0.5s ease-in-out;
+}
+
+
+  

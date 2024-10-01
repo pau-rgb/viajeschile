@@ -50,7 +50,6 @@ body {
   color: #fff;
 }
 
-
 .card-body2 {
   background-color: #000000;
   color: #ffffff;
@@ -74,7 +73,6 @@ body {
 .card-imagen {
   height: 140px;
 }
-
 
 .color_footer {
   background-color: #16a2b7;
@@ -110,6 +108,3 @@ html {
 a[href^="#"] {
   transition: scroll 0.5s ease-in-out;
 }
-
-
-  
